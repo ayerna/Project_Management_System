@@ -1,7 +1,3 @@
-Here's a professional and attractive `README.md` template for your **Project Management System**, ready for GitHub. It includes structured sections and placeholders for screenshots and the ER diagram:
-
----
-
 ```markdown
 # 🛠️ Project Management System
 
