@@ -3,9 +3,6 @@
 
 A full-featured Project Management System built to streamline and simplify the tracking of projects, tasks, teams, and reports. Designed for ease of use and scalability, this system is ideal for academic teams, startups, and internal enterprise management.
 
-![GitHub stars](https://img.shields.io/github/stars/ayerna/project-management-system?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ayerna/project-management-system?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/ayerna/project-management-system)
 
 ---
 
